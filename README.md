@@ -1,2 +1,4 @@
 # Fundamentos-de-Programacao-exercicios
- Exercícios da cadeira de Fundamentos de Programação, Engenharia de Computação UFC
+ Profa. Dra. Valéria Lelli Leilão Dantas
+ Universidade Federal do Ceará
+ Fundamentos de Programação - Engenharia de Computação 2024.1
